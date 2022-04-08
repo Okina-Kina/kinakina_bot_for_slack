@@ -29,10 +29,10 @@ $ python run.py
 
 # Author
 * okina-kina
-* okinakinako@gmail.com
+* okinakinako<span>@gmail.com</span>
 
 # License
-[MIT license](https://en.wikipedia.org/wiki/MIT_License)
+*[MIT license](https://en.wikipedia.org/wiki/MIT_License)
 
 # Credit
 * [Slack | Bolt for Python](https://slack.dev/bolt-python/concepts)
