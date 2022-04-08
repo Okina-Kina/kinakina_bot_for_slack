@@ -28,8 +28,7 @@ $ python run.py
 ```
 
 # Author
-* okina-kina
-* okinakinako<span>@gmail.com</span>
+* okina-kina(okinakinako@gmail.com)
 
 # License
 * [MIT license](https://en.wikipedia.org/wiki/MIT_License)
