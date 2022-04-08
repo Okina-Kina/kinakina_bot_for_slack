@@ -2,16 +2,22 @@
 Executable bot on slack.
 The bot is capable of simple conversation.
 
-# Dependency
+# Requirement
+* Python 3.6 or later
 * slack_bolt
 
+
 # Setup
-Windows
 
-Install Python Library
-Recommendation to use venv.
+Install Python Library.<br>
+Recommendation to use [venv](https://docs.python.org/3/library/venv.html#module-venv).<br>
 
+Venv on Windows
 ```bash
+$ mkdir .venv
+$ cd .venv
+$ .\env\Scripts\activate
+$ where python
 $ pip install slack_bolt
 ```
 
