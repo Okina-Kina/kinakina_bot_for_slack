@@ -11,16 +11,22 @@ Windows
 Install Python Library
 Recommendation to use venv.
 
----bash
+```bash
 $ pip install slack_bolt
----
+```
 
 # Usage
-
 Windows
----bash
+```bash
 $ python run.py
----
+```
 
-# LICENSE
-MIT lisence
+# Author
+* okina-kina
+* okinakinako@gmail.com
+
+# License
+[MIT license](https://en.wikipedia.org/wiki/MIT_License)
+
+# Credit
+* [Slack | Bolt for Python](https://slack.dev/bolt-python/concepts)
